@@ -1,6 +1,6 @@
 {
   "build": {
-    "cmd": "cp -r * /app",
+    "cmd": "cp -r paradigm-shift-master/* /app",
     "output": "/app"
   }
 }
